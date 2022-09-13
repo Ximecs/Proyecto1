@@ -1,0 +1,150 @@
+.Container_Principal{
+  align-items: center;
+  margin:  2em 200px 1em 200px;
+
+}
+.Logo{
+  margin-left: 20px;
+}
+.Redes_Sociales{
+  margin: -150px 0px 1px 850px;
+}
+.nav_bar{
+  margin: 60px 0px 1px 300px; /*down left top right */
+  position: relative;
+
+}
+.nav_bar : hover{
+  cursor: pointer;
+}
+.nav_bar li{
+  display: inline-block;
+  padding: 2px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #02407d;
+  text-decoration: none;
+  margin-right: 5px;
+}
+
+.banner{
+  width: 1095px;
+  height: 400px;
+  padding: 0.5em;
+}
+.banner2{
+  width: 1000px;
+  height: 120px;
+  padding: 0.5em;
+}
+.banner3{
+  width: 1045px;
+  height: 110px;
+  padding: 0.5em;
+}
+.texto{
+  Color:#013871;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  align-items: center;
+}
+.Metodos_pago{
+  align: center;
+  vertical-align: middle;
+  margin: 0px 0px 0px 100px;
+
+}
+.Metodos_pago: hover{
+  cursor: pointer;
+}
+.texto2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #565656;
+}
+.texto3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 50px;
+  color: #565656;
+  margin-top: 10px;
+  margin-bottom: -5px;
+}
+.plis{
+  display: inline;
+  margin: 70px 100px 20px 110px; /* down left top right */
+
+}
+.formulario1 h3 {
+  font-family: 'Poppins', sans-serif;
+  margin-top: -30px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #495057;
+  display: inline;
+  margin-left: 60px;
+}
+.select1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  width: 450px;
+  height: 40px;
+ font-size: 20px;
+ color: #495057;
+ margin-left: 60px;
+}
+.buscar h3{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  width: 450px;
+  height: 40px;
+  font-size: 20px;
+  color: #495057;
+  margin-bottom: -10px;
+  margin-left: 80px;
+}
+.buscador{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  width: 450px;
+  height: 35px;
+ font-size: 20px;
+ color: #495057;
+ margin-left: 80px;
+}
+.buscar{
+  margin: -90px 60px 0px 500px;
+}
+.enamoratedeunpeludo{
+  margin: 20px 0px 0px 0px;
+}
+@supports(object-fit: cover){
+.img_perritos{
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  background-position: center center;
+  margin-top: 20px;
+}
+}
+.nombre_perrito{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+  align: center;
+}
+.descripcion_perrito{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  align: center;
+}
+
+.Container_Principal .perritos div{
+  display: inline-block;
+  align-items: center;
+}
